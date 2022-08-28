@@ -1,0 +1,50 @@
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.exe.config
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.pdb
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\_1.CalculatorForm.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.pdb
+D:\1\1\bin\Debug\1.exe.config
+D:\1\1\obj\Debug\1.exe
+D:\1\1\obj\Debug\1.pdb
+C:\Users\student\Desktop\Калькулятор конечн\1\bin\Debug\1.exe.config
+C:\Users\student\Desktop\Калькулятор конечн\1\obj\Debug\1.exe
+C:\Users\student\Desktop\Калькулятор конечн\1\obj\Debug\1.pdb
+C:\Users\student\Desktop\Калькулятор конечн\1\bin\Debug\1.exe
+C:\Users\student\Desktop\Калькулятор конечн\1\bin\Debug\1.pdb
+C:\Users\student\Desktop\Калькулятор конечн\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\student\Desktop\Калькулятор конечн\1\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Калькулятор конечн\1\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\bin\Debug\1.exe.config
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\bin\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\bin\Debug\1.pdb
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\Калькулятор конечн\1\obj\Debug\1.pdb
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.exe.config
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.exe
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.pdb
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\1.exe
+C:\Users\Setre Petreshka\Downloads\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\1.pdb
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.exe.config
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\1.exe
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\1.pdb
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.exe
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\bin\Debug\1.pdb
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\student\Desktop\KAL_KULYaTOR\1\Калькулятор конечн\1\obj\Debug\Calculator.csproj.GenerateResource.Cache

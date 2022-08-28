@@ -1,0 +1,39 @@
+D:\ООП\1\1\bin\Debug\1.exe.config
+D:\ООП\1\1\bin\Debug\1.exe
+D:\ООП\1\1\bin\Debug\1.pdb
+D:\ООП\1\1\obj\Debug\_1.CalculatorForm.resources
+D:\ООП\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\ООП\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+D:\ООП\1\1\obj\Debug\1.exe
+D:\ООП\1\1\obj\Debug\1.pdb
+E:\ООП\1\1\bin\Debug\1.exe.config
+E:\ООП\1\1\obj\Debug\1.exe
+E:\ООП\1\1\obj\Debug\1.pdb
+E:\ООП\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+E:\ООП\1\1\obj\Debug\_1.CalculatorForm.resources
+E:\ООП\1\1\obj\Debug\_1.Properties.Resources.resources
+E:\ООП\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+E:\ООП\1\1\bin\Debug\1.exe
+E:\ООП\1\1\bin\Debug\1.pdb
+D:\ООП\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\ООП\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\Study\#Learn\1\1\bin\Debug\1.exe.config
+F:\Study\#Learn\1\1\bin\Debug\1.exe
+F:\Study\#Learn\1\1\bin\Debug\1.pdb
+F:\Study\#Learn\1\1\obj\Debug\_1.CalculatorForm.resources
+F:\Study\#Learn\1\1\obj\Debug\_1.Properties.Resources.resources
+F:\Study\#Learn\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+F:\Study\#Learn\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\Study\#Learn\1\1\obj\Debug\1.exe
+F:\Study\#Learn\1\1\obj\Debug\1.pdb
+F:\Study\#Learn\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.exe.config
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\1\bin\Debug\1.pdb
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\_1.CalculatorForm.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.exe
+C:\Users\prota\OneDrive\Рабочий стол\1\1\obj\Debug\1.pdb
